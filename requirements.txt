@@ -1,5 +1,1 @@
 tensorflow
-numpy
-matplotlib
-streamlit
-Pillow
